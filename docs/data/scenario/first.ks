@@ -26,7 +26,7 @@
 [link target=*tag_akirameru] →諦める [endlink][r]
 [s]
 
-*tag_sleep
+*tag_run
 
 [cm]
 
